@@ -35,9 +35,9 @@ The main goal was to demonstrate my ability to self-learn and implement:
 Make sure you have **Node.js** and **Expo CLI** installed.
 
 1. Clone the project:
-   ```bash
-   git clone https://github.com/your-username/socialapp.git
-   cd socialapp
+    bash:
+    git clone https://github.com/AbdullahShamarka/MobileSocialApp.git
+    cd MobileSocialApp
 
 2. Install the dependencies:
     npm install
@@ -48,3 +48,14 @@ Make sure you have **Node.js** and **Expo CLI** installed.
 4. Scan the QR code with Expo Go on your iPhone or Android device.
 Make sure your phone and computer are on the same Wi-Fi network.
 
+---
+
+## Screenshots
+
+### Home Screen
+![Home Screen](./screenshots/home.jpg)
+
+### Post Details Screen
+![Post Details Screen](./screenshots/postdetails.jpg)
+
+I spent approximately 2 hours completing this project, from setup and learning to implementation and testing.
