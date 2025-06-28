@@ -58,4 +58,6 @@ Make sure your phone and computer are on the same Wi-Fi network.
 ### Post Details Screen
 ![Post Details Screen](./screenshots/postdetails.jpg)
 
+---
+
 I spent approximately 2 hours completing this project, from setup and learning to implementation and testing.
